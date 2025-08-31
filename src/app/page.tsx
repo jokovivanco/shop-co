@@ -12,7 +12,7 @@ export default async function Home() {
     <div className="min-h-screen bg-gray-50">
       <div className="container mx-auto px-4 py-8">
         <header className="text-center mb-12">
-          <h1 className="text-4xl font-bold text-gray-900 mb-4">Shop.co</h1>
+          <h1 className="text-4xl font-montserrat font-bold text-gray-900 mb-4">SHOP.CO</h1>
           <p className="text-lg text-gray-600">Discover our latest collection of premium clothing</p>
         </header>
 
